@@ -4,9 +4,9 @@ Professor - Yuli Deng.
 
 
 ## Team Members
-- Sai Vikhyath Kudhroli - 1225432689
-- Gautham Maraswami - 1225222063
-- Abhilash Subhash Sanap - 1225222362
+- Sai Vikhyath Kudhroli
+- Gautham Maraswami
+- Abhilash Subhash Sanap
 
 
 
