@@ -3,8 +3,8 @@ import boto3
 import uuid
 
 config = {
-    "AWS_ACCESS_KEY_ID": "AKIAUZP4JGMVM5X62UGD",
-    "AWS_SECRET_ACCESS_KEY": "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",
+    "AWS_ACCESS_KEY_ID": "#",
+    "AWS_SECRET_ACCESS_KEY": "#",
     "BUCKET_NAME": "imageinputbucket"
 }
 
